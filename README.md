@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi cher visiteur du présent 👋
 
-<!--
-**NikolasVolg/NikolasVolg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je m'appelle Nicolas et actuellement, j'habite Limoges. Si c'est loin de chez toi, pas de panique tu peux me contacter via divers moyens (on voit ça plus bas) et en plus, je peux travailler en remote, y a pas de soucis, git c'est un de mes skills :)
 
-Here are some ideas to get you started:
+Donc, si tu as besoin d'un dev front ou back, je suis là et je peux même combiner les deux. Pour t'en convaincre, jette un œil à mes repos et à mes réas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Si t'es ok
+
+Contacte moi sur mon LinkedIn
+
+## Skills 
+
+<img>
