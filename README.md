@@ -1,4 +1,4 @@
-### Hi cher visiteur du présent 👋
+# Hi cher visiteur du présent 👋
 
 Je m'appelle Nicolas et actuellement, j'habite Limoges. Si c'est loin de chez toi, pas de panique tu peux me contacter via divers moyens (on voit ça plus bas) et en plus, je peux travailler en remote, y a pas de soucis, git c'est un de mes skills :)
 
