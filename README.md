@@ -6,9 +6,9 @@ Donc, si tu as besoin d'un dev front, je suis là. Pour l'instant, je fais pas l
 
 ## Si t'es ok
 
-Contacte moi sur mon LinkedIn <https://www.linkedin.com/in/nicolas-bornot-67298019b/>
-ou
-sur mon Gmail : nicolas.bornot@gmail.com
+Contacte moi sur mon LinkedIn <https://www.linkedin.com/in/nicolas-bornot-67298019b/>  
+ou  
+sur mon Gmail : nicolas.bornot@gmail.com  
 
 Je te donne mon CV aussi : 'insérer Lien CV'
 
