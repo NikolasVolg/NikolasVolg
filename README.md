@@ -10,6 +10,6 @@ Contacte moi sur mon LinkedIn <https://www.linkedin.com/in/nicolas-bornot-672980
 
 ## Skills 
 
-![Mes Skills](https://drive.google.com/file/d/1X_upivxALWi_-e2_Xd-YZXnNuY6AGcIN/view "Mes Skills")
+![Mes Skills](https://www.casimages.com/i/2011121110558597417122366.jpg.html "Mes Skills")
 
 
