@@ -16,6 +16,6 @@ Je te donne mon CV aussi : <https://drive.google.com/file/d/1pAXMiRFzaXWKydIdxeE
 
 ## Skills 
 
-![Mes Skills](https://nsm09.casimages.com/img/2020/11/12//2011121110558597417122366.jpg)
+![Mes Skills](https://nsm09.casimages.com/img/2020/11/16//2011161025308597417128856.jpg)
 
 
