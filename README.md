@@ -12,7 +12,7 @@ Contacte moi sur mon LinkedIn <https://www.linkedin.com/in/nicolas-bornot-672980
 *ou*  
 sur mon Gmail : nicolas.bornot@gmail.com  
 
-Je te donne mon CV aussi : <https://drive.google.com/file/d/1pAXMiRFzaXWKydIdxeEct5zHFuWNfQOi/view?usp=sharing>
+Je te donne mon CV aussi : <https://drive.google.com/file/d/1ORyahjEZRY53OQRrFaUIofFdk2En_GYg/view?usp=sharing>
 
 ## Skills 
 
